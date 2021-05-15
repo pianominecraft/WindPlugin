@@ -1,0 +1,9 @@
+name: WindPlugin
+version: @version@
+main: com.pianominecraft.windplugin.WindPlugin
+api-version: 1.16
+
+author: pianominecraft#1130
+
+commands:
+  teamReload:
